@@ -1,4 +1,5 @@
 🎬 Netflix User Analytics Dashboard (Power BI)
+
 📌 Project Overview
 This project presents an interactive Netflix User Analytics Dashboard built using Power BI.
 The dashboard provides insights into user behavior, subscription trends, genre preferences, and regional distribution across India.
@@ -9,6 +10,7 @@ The goal of this project was to transform raw data into meaningful insights with
 
 📊 User Insights
 
+
 Viewer segmentation (Regular, Engaged, Binge Watchers, Casual)
 
 Age group distribution
@@ -17,6 +19,7 @@ Maximum user category identified
 
 
 💳 Subscription Analysis
+
 
 
 Most used payment mode (UPI)
@@ -30,6 +33,7 @@ Average subscription cost
 
 🎭 Content Preferences
 
+
 Most preferred genres (Drama, Documentary, Anime, etc.)
 
 Genre popularity comparison
@@ -38,6 +42,7 @@ Genre popularity comparison
 
 
 📍 Geographical Analysis
+
 
 City-wise user distribution across India
 
@@ -48,12 +53,14 @@ Tier-based filtering (Tier 1, Tier 2, Tier 3 cities)
 
 ⭐ Performance Metrics
 
+
 Average satisfaction score
 
 Average tenure (in months)
 
 
 📷 Dashboard Preview
+
 🔴 Power BI Dashboard
 <img width="1159" height="643" alt="Screenshot 2026-04-14 171029" src="https://github.com/user-attachments/assets/cbb5510d-aba3-474b-bc35-76817424c2d4" />
 
@@ -103,6 +110,7 @@ Data Modeling – Table relationships
 
 
 🧠 What I Learned
+
 
 Building interactive dashboards
 
